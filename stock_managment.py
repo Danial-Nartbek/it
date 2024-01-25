@@ -207,3 +207,4 @@ database = {
 controller = Controller()
 controller.auth_user()
 controller.get_stock_information()
+qwert = " I dont know who to choose"
